@@ -1,0 +1,157 @@
+153755350
+  -OEChem-02292422592D
+
+ 18 19  0     0  0  0  0  0  0999 V2000
+    2.0000   -2.2500    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4103    1.0547    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4103   -0.5547    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9939    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6029    1.6440    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6139    0.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -0.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 14  2  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 12  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 13 17  1  0  0  0  0
+M  CHG  1   1  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+153755350
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+317
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBjsABAAAAAAAAAAAAAAAAAAWAAAAAgAAAAAAAAAEABgAAAHgQQAAAACAgBlgQFsBbJkACoAQdxdACAgC2XEKABUYGoVECASAhASCAUAIgIAQJAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+N-(6-oxo-1,7-dihydropurin-2-yl)carbamothioate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+N-(6-oxo-1,7-dihydropurin-2-yl)carbamothioate
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+<I>N</I>-(6-oxo-1,7-dihydropurin-2-yl)carbamothioate
+
+> <PUBCHEM_IUPAC_NAME>
+N-(6-oxo-1,7-dihydropurin-2-yl)carbamothioate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+N-(6-oxidanylidene-1,7-dihydropurin-2-yl)carbamothioate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+N-(6-keto-1,7-dihydropurin-2-yl)thiocarbamate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H5N5O2S/c12-4-2-3(8-1-7-2)9-5(10-4)11-6(13)14/h1H,(H4,7,8,9,10,11,12,13,14)/p-1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+KZDUILLNMOPUOH-UHFFFAOYSA-M
+
+> <PUBCHEM_XLOGP3_AA>
+-0.3
+
+> <PUBCHEM_EXACT_MASS>
+210.00857056
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H4N5O2S-
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+210.20
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=NC2=C(N1)C(=O)NC(=N2)NC(=O)[S-]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=NC2=C(N1)C(=O)NC(=N2)NC(=O)[S-]
+
+> <PUBCHEM_CACTVS_TPSA>
+100
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+210.00857056
+
+> <PUBCHEM_TOTAL_CHARGE>
+-1
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+4  11  8
+4  12  8
+5  13  8
+5  9  8
+6  10  8
+6  12  8
+7  10  8
+7  13  8
+9  10  8
+9  11  8
+
+$$$$
