@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.custom-file-upload {
+    margin-bottom: 20px;
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.custom-file-upload:hover {
+    background-color: #e0e0e0;
+}
+
+.custom-file-upload input[type="file"] {
+    display: none;
+}
+
+.custom-file-upload span {
+    font-weight: bold;
+}
+
+
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Set height to the viewport height for vertical centering */
+}
+
+.text-container {
+    margin-top: 20px; /* Add some margin between the image and text */
+    text-align: center; /* Align text to center */
+}
+
+h3 {
+    font-size: 24px;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+.box {
+    border: 2px solid #ccc; /* Border style */
+    border-radius: 10px; /* Rounded corners */
+    padding: 20px; /* Padding inside the box */
+    background-color: #f9f9f9; /* Background color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    margin: 20px; /* Margin around the box */
+}
+
+.aboutButton {
+    background-color: hwb(165 98% 0%);
+    border: none;
+    color: rgb(19, 18, 18);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    
+  }
+  .aboutText{
+    text-align: justify;
+    padding: auto;
+    margin-left: 2cm;
+    margin-right: 2cm;
+
+  }
